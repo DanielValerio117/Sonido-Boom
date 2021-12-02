@@ -7,6 +7,8 @@
         }
       }
     );
+
+
     wow.init();
     document.getElementById('moar').onclick = function() {
       var section = document.createElement('section');
